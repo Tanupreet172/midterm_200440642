@@ -1,0 +1,5 @@
+Complete the following files
+- index.php
+- /comicbooks/insert.php
+- /comicbooks/edit.php
+- /comicbooks/update.php
